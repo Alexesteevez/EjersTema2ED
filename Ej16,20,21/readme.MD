@@ -1,4 +1,5 @@
 16. Bibliotecas. Define qué se entiende por biblioteca o librería y los tipos que existen.
+
 En la informática una libreria o biblioteca, es un conjunto de funciones que se codifican en un lenguaje de programación, que se utiliza para facilitar la programación ya que se reutiliza el código. En las bibliotecas podemos diferenciar dos tipos.(Estáticas y dinámicas)
 
 Estáticas: Las bibliotecas estáticas incluye el código dentro del programa para hacer uso de ellas.
