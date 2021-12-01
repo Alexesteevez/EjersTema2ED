@@ -1,4 +1,5 @@
-Explica cada uno de los siguientes conceptos e indica la relación entre ellos.
+4.Explica cada uno de los siguientes conceptos e indica la relación entre ellos.
+
 ○ código fuente
 
 
